@@ -20,5 +20,6 @@
     <br>
     <div style="text-align:center;">
       <p>A focused software engineer has experience working with many platforms like education, candidate management, etc. Skilled in Angular, JavaScript, Python, Data Structures, and Algorithms with a Master of Computer Applications from Savitribai Phule Pune University.</p>
+      <p style="color:#ffcc00">Eager to take new challenges  |  Always ready to learn new things  </p>
     </div>
 </div>
