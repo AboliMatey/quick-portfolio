@@ -10,10 +10,10 @@
         <p>Mobile: +91 8600875855</p>
         <p>Email: abolimatey95@gmail.com</p>
         <br>
-        <a href="bit.ly/3hZSZPe" target="_blank">Projects Summary</a><br><br>
+        <a href="https://bit.ly/3hZSZPe" target="_blank">Projects Summary</a><br><br>
         <a href="https://www.linkedin.com/in/abolimatey"  target="_blank">LinkedIn Profile</a> <br><br>
         <a href="https://github.com/AboliMatey?tab=repositories"  target="_blank">GIT</a><br><br>
-        <a href="bit.ly/3unCL5a"  target="_blank">Resume</a>
+        <a href="https://bit.ly/3unCL5a"  target="_blank">Resume</a>
         <br><br>
       </div>
     </div>
